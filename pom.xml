@@ -35,12 +35,6 @@
             <id>repo.yourgamespace</id>
             <url>https://hub.yourgamespace.com/repo/</url>
         </repository>
-
-        <repository>
-            <id>codemc-repo</id>
-            <url>https://repo.codemc.org/repository/maven-public/</url>
-            <layout>default</layout>
-        </repository>
     </repositories>
 
     <dependencies>
